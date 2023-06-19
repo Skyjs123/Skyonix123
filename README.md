@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **discord.js**
 
-- 📫 How to reach me **Discord: skyjs#6913**
+- 📫 How to reach me **Discord: disproven**
 
 - ⚡ Fun fact **I started programming back in 2019.**
 
