@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **my new website.**
 
-- 🌱 I’m currently learning **Html**
+- 🌱 I’m currently learning **Html and css**
 
 - 💬 Ask me about **discord.js**
 
-- 📫 How to reach me **Discord: disproven**
+- 📫 How to reach me **Discord: uikl**
 
 - ⚡ Fun fact **I started programming back in 2019.**
 
