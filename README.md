@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Discord: uikl**
 
-- ⚡ Fun fact **I started programming back in 2019.**
+- ⚡ Fact **I started programming back in 2019.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
