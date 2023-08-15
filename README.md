@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **skyjs.xyz and Easy Discord Server**
 
-- 🌱 I’m currently learning **Html and css**
+- 🌱 I’m currently learning **Html and css and Javascript**
 
 - 💬 Ask me about **discord.js**
 
