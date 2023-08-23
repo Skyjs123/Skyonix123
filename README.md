@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyonix123&label=Profile%20views&color=0e75b6&style=flat" alt="skyonix123" /> </p>
 
-- 🔭 I’m currently working on **skyjs.xyz and Easy Discord Server**
+- 🔭 I’m currently working on **skyjs.xyz**
 
-- 🌱 I’m currently learning **Html and css and Javascript**
+- 🌱 I’m currently learning **how to create an API**
 
 - 💬 Ask me about **discord.js**
 
