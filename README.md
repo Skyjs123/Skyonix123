@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/1116769872685314058/1118214870559637514/standard_6.gif)](https://discord.gg/gXVhnnQH6a)
 <h1 align="center">Hi 👋, I'm Skyonix!</h1>
-<h3 align="center">Im a Javascript bot developer.</h3>
+<h3 align="center">Im a Javascript developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyonix123&label=Profile%20views&color=0e75b6&style=flat" alt="skyonix123" /> </p>
 
@@ -10,13 +10,13 @@
 
 - 💬 Ask me about **discord.js**
 
-- 📫 How to reach me **Discord: uikl**
+- 📫 How to reach me **Discord: skyxjs**
 
 - ⚡ Fact **I started programming back in 2019.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/toeasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AHYFdqymFc" height="30" width="40" /></a>
+<a href="https://discord.gg/skyjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AHYFdqymFc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
