@@ -1,12 +1,12 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/1116769872685314058/1118214870559637514/standard_6.gif)](https://discord.gg/gXVhnnQH6a)
 <h1 align="center">Hi 👋, I'm Skyonix!</h1>
-<h3 align="center">Im a Javascript developer.</h3>
+<h3 align="center">Im a Javascript / Python developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyonix123&label=Profile%20views&color=0e75b6&style=flat" alt="skyonix123" /> </p>
 
-- 🔭 I’m currently working on **skyjs.xyz**
+- 🔭 I’m currently working on **Genesis**
 
-- 🌱 I’m currently learning **how to create an API**
+- 🌱 I’m currently learning **everything about discord tokens**
 
 - 💬 Ask me about **discord.js**
 
